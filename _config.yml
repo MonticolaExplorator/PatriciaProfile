@@ -28,9 +28,12 @@ cv: /assets/Patricia_Ribeiro_de_Santana_cv.pdf
 about_profile_image: images/profile.jpg
 about_title: Acerca de mi
 about_content: | # this will include new lines to allow paragraphs
-  Trabajadora, responsable y alegre. Me gusta trabajar para conseguir objetivos. Naci en <mark>Recife (Brasil)</mark> y a los 28 años me trasladé a España. Siempre quise vivir en Europa.
-
-  En mi tiempo libre me gusta disfrutar de la naturaleza, leer, ver series y estar con mis amigos y mi familia.
+  Habilidades:
+  - Seria y confiable
+  - Trabajadora, responsable y alegre
+  - Comunicativa y con capacidad de trabajar de cara al público
+  - Con capacidad de trabajar en equipo para poder aportar mis habilidades al grupo y también aprender con los demás
+  - Resolutiva, resiliente y con alto grado de implicación en el trabajo
 
 # Projects Section
 projects_title: Inquietudes #(Use this to override about projects section title)
@@ -44,12 +47,10 @@ education_title: Educación #(Use this to override about education section title
 # More Section
 more_title: Un poco más sobre mi #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Naci en <mark>Recife (Brasil)</mark> y a los 28 años me trasladé a España, siempre quise vivir en Europa. En mi tiempo libre me gusta disfrutar de la naturaleza, leer, ver series, escuchar musica y estar con mis amigos y mi familia. Me gustaría encontrar un trabajo que me permitiera desarrollar mis habilidades y crecer personal y profesionalmente.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

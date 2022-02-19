@@ -87,18 +87,18 @@
 
       {%- if site.email -%}
         <p>
-          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          Correo-e: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.phone -%}
         <p>
-          Phone: {{ site.phone | escape }}
+          Teléfono: {{ site.phone | escape }}
         </p>
       {%- endif -%}
       {%- if site.cv -%}
       <p>
-        {% assign cvurl={{site.cv | absolute_url}} %}
-        {% include a.html href=cvurl %}Curriculum Vitae</a>
+        {% assign cvurl={{site.cv}} %}
+        <a href="{{ cvurl }}" target="_blank">Curriculum Vitae</a>
       </p>
       {%- endif -%}
       {%- if site.website -%}
