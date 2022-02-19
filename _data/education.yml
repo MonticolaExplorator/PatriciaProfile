@@ -1,0 +1,18 @@
+# Education Template
+- layout: left
+  name: Escola Dom Bosci de Recife (Brasil)
+  dates: de 1990 a 2008
+  qualification: Bachillerato (Ensino médio)
+  # quote: >
+  #   Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Estudios  equivalentes al bachillerato español en la escuela Dom Bosci de Recife, Brasil.
+  
+- layout: left
+  name: Universidad Católica de Pernambuco
+  dates: de 2014 a 2015
+  # qualification: Estudios de periodismo
+  quote: >
+    Estudios de periodismo
+  description: | # this will include new lines to allow paragraphs
+    Durante un año, estudié periodismo en la Universidad Católica de Pernambuco. Fue una experiencia muy buena, que me ha dejado grandes recuerdos y gracias a la cual, a pesar de su brevedad, aprendí muchas cosas.

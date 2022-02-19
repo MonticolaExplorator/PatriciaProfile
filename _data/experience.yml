@@ -1,0 +1,30 @@
+# Experience template
+- layout: left
+  company: Hogar particular
+  job_title: Empleada de hogar (sin contrato)
+  dates: de 2016 hasta el presente
+  quote: >
+   Familia en La Fresneda
+  description: | # this will include new lines to allow paragraphs
+    En este trabajo incluye tareas de limpieza, elaboración de comidas, realización de colada y plancha, cuidado de niños y de mascotas
+
+
+- company: Clínica Lucilo Ávila
+  link: https://luciloavila.com.br/
+  job_title: Recepcionista Hospitalaria
+  dates: de 2011 a 2016
+  quote: >
+    Centro médico de diagnóstico por imagen
+  description: | # this will include new lines to allow paragraphs
+    La funciones en este trabajo consistían en atención al paciente, realización de cobros, gestión de agendas y citas, y otras tareas administrativas
+
+
+- company: Restaurante Bonaparte (Recife)
+  link: http://www.bonaparte.com.br/
+  job_title: Recepcionista de pedidos
+  dates: de 2010 a 2011
+  quote: >
+    Cadena de restaurantes
+  description: | # this will include new lines to allow paragraphs
+    Este trabajo requería atención presonal y telefónica al cliente, y recepción de pedidos
+    

@@ -1,0 +1,25 @@
+# Project template
+- layout: top-middle
+  name: Último libro leído
+  title: Mitología Clásica 
+  image: images/MitologiaClasica.jpg
+  quote: >
+    Mario Agudo Villanueva
+  description: >
+     Fascinante paseo por las mitologías griega y romana, en las que hunde sus raíces nuestra civilización. 
+
+- layout: top-middle
+  name: Última planta comprada
+  title: Camelia 
+  image: images/camelia_20220129_142902_027.jpg
+  imageclass: camera-img
+  description: >
+     Comprada a finales de otoño en el jardín botánico de Gijón, su destino fue una terraza con orientación norte. Nos habían dicho que la poca luz no sería un problema, y que tan solo teníamos que protegerla del viento. Hasta el momento parece feliz en su ubicación. Sin embargo, no ha sacado todas sus flores. La mayoría de botones florales están cerrado aún en febrero. Quizá necesitaría algo más de luz
+
+- layout: top-middle
+  name: Últimas vacaciones
+  title: Baiona (Galicia)
+  image: images/cies-20210628-WA0009.jpg
+  imageclass: camera-img
+  description: >
+     Vacaciones de verano en un camping en Baiona. Buen tiempo, unas playas muy bonitas y una comida muy rica. La foto es del Alto del Príncipe, situado en las Islas Cíes. Es un impresionante mirador al Atlántico. Las Islas Cíes son una visita casi obligada, con sus preciosas playas de agua cristalina. Para poder ir hay que solicitar un permiso por internet, y se puede llegar en ferris desde Baiona y Vigo. 

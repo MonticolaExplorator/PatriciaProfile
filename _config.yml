@@ -1,0 +1,77 @@
+# Site
+# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Patricia Ribeiro
+#title: Your job title
+email: rspatricia2022@gmail.com
+phone: 610 994 210
+cv: assets/Patricia_Ribeiro_de_Santana_cv.pdf
+#website: Your website (eg. https://google.com)(optional)
+
+# Social links
+#twitter_username: jekyllrb
+#github_username:  moya10
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_title: Acerca de mi
+about_content: | # this will include new lines to allow paragraphs
+  Trabajadora, responsable y alegre. Me gusta trabajar para conseguir objetivos. Naci en <mark>Recife (Brasil)</mark> y a los 28 años me trasladé a España. Siempre quise vivir en Europa.
+
+  En mi tiempo libre me gusta disfrutar de la naturaleza, leer, ver series y estar con mis amigos y mi familia.
+
+# Projects Section
+projects_title: Inquietudes #(Use this to override about projects section title)
+
+# Experience Section
+experience_title: Experiencia #(Use this to override about experience section title)
+
+# Education Section
+education_title: Educación #(Use this to override about education section title)
+
+# More Section
+more_title: Un poco más sobre mi #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+
+  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "makefile",
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
