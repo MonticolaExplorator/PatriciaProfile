@@ -1,12 +1,12 @@
 # Education Template
 - layout: left
-  name: Escola Dom Bosci de Recife (Brasil)
+  name: Escola Dom Bosco de Recife (Brasil)
   dates: de 1990 a 2008
   qualification: Bachillerato (Ensino médio)
   # quote: >
   #   Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Estudios  equivalentes al bachillerato español en la escuela Dom Bosci de Recife, Brasil.
+    Estudios  equivalentes al bachillerato español en la escuela Dom Bosco de Recife, Brasil.
   
 - layout: left
   name: Universidad Católica de Pernambuco
