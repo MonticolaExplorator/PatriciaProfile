@@ -1,13 +1,13 @@
 # Site
 # repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon/favicon.ico
 
 # Personal info
 name: Patricia Ribeiro
 #title: Your job title
 email: rspatricia2022@gmail.com
 #phone: 610 994 210
-cv: /assets/Patricia_Ribeiro_de_Santana_cv.pdf
+#cv: /assets/Patricia_Ribeiro_de_Santana_cv.pdf
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
@@ -50,7 +50,7 @@ more_content: | # this will include new lines to allow paragraphs
   Naci en <mark>Recife (Brasil)</mark> y a los 28 años me trasladé a España, siempre quise vivir en Europa. En mi tiempo libre me gusta disfrutar de la naturaleza, leer, ver series, escuchar musica y estar con mis amigos y mi familia. Me gustaría encontrar un trabajo que me permitiera desarrollar mis habilidades y crecer personal y profesionalmente.
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
